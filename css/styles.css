@@ -99,6 +99,9 @@ img {
   padding: 188px 0;
   background: #2e2f42;
 }
+.section:nth-child(3) {
+  background-color: #f4f4fd;
+}
 .header-one {
   font-weight: 700;
   font-size: 56px;
