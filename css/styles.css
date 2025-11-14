@@ -211,7 +211,7 @@ img {
   row-gap: 48px;
   flex-wrap: wrap;
 }
-.portfolio-list-el {
+.portfolio-el {
   width: calc((100% - 48px) / 3);
 }
 .port-div {
