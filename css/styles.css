@@ -14,7 +14,7 @@ body {
   display: flex;
 }
 .container {
-  width: 1158px;
+  width: 1128px;
   margin: 0 auto;
   padding: 0 15px;
 }
@@ -119,6 +119,7 @@ img {
   color: #ffffff;
   max-width: 496px;
   margin: 0 auto;
+  margin-bottom: 48px;
 }
 .order-btn {
   font-family: "Roboto", sans-serif;
@@ -134,7 +135,7 @@ img {
   border: none;
   border-radius: 4px;
   margin: 0 auto;
-  margin-top: 48px;
+  padding: 16px 32px;
 }
 .second-list {
   display: flex;
@@ -153,6 +154,7 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   margin-bottom: 8px;
+  margin-top: 0;
 }
 .feature-par {
   font-weight: 400;
@@ -160,6 +162,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  margin: 0;
 }
 /* .team {
   background-color: #f4f4fd;
@@ -181,6 +184,7 @@ img {
   list-style: none;
   margin: 0 auto;
   padding: 0;
+  justify-content: center;
 }
 .team-card {
   background-color: white;
@@ -195,6 +199,7 @@ img {
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-align: center;
+  margin: 0;
   margin-bottom: 8px;
 }
 .team-card-desc {
@@ -204,6 +209,7 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
+  margin: 0;
 }
 .dev-info {
   display: flex;
@@ -231,10 +237,10 @@ img {
   margin: 0 auto;
   list-style: none;
   padding: 0;
+  justify-content: center;
 }
 .portfolio-el {
   width: calc((100% - 48px) / 3);
-  max-width: 360px;
 }
 .port-div {
   padding: 32px 16px;
