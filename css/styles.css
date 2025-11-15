@@ -190,7 +190,6 @@ img {
   background-color: white;
   width: calc((100% - 72px) / 4);
   border-radius: 0 0 4px 4px;
-  max-width: 264px;
 }
 .team-card-header {
   font-weight: 500;
